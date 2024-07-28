@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aaron Cody's Blog
-email: aaron@aaroncody.com
+title: Charles "Chuck" Garcia's Blog
+email: chuckgarcian@utexas.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Aaron Cody's new blog .. a work in progress.
+  Chuck Garcia's new blog .. a work in progress.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://blog.aaroncody.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: AaronCody66
-github_username:  miramar-labs
-linkedin_username: aaron-cody-806130
+github_username:  chuckgarcian
+linkedin_username: 
 
 # Build settings
 theme: minima
